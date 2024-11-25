@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Vinicius &#8211; nutrivalaraujo</title>
+	<atom:link href="https://vinny1511.github.io/nutrivalaraujo/author/vinicius/feed/" rel="self" type="application/rss+xml" />
+	<link>https://vinny1511.github.io/nutrivalaraujo</link>
+	<description></description>
+	<lastBuildDate>Sun, 24 Nov 2024 20:28:29 +0000</lastBuildDate>
+	<language>pt-BR</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7.1</generator>
+	<item>
+		<title>Olá, mundo!</title>
+		<link>https://vinny1511.github.io/nutrivalaraujo/2024/11/24/ola-mundo/</link>
+					<comments>https://vinny1511.github.io/nutrivalaraujo/2024/11/24/ola-mundo/#comments</comments>
+		
+		<dc:creator><![CDATA[Vinicius]]></dc:creator>
+		<pubDate>Sun, 24 Nov 2024 20:28:29 +0000</pubDate>
+				<category><![CDATA[Sem categoria]]></category>
+		<guid isPermaLink="false">https://vinny1511.github.io/nutrivalaraujo/?p=1</guid>
+
+					<description><![CDATA[Boas-vindas ao WordPress. Esse é o seu primeiro post. Edite-o ou exclua-o, e então comece a escrever!]]></description>
+										<content:encoded><![CDATA[
+<p>Boas-vindas ao WordPress. Esse é o seu primeiro post. Edite-o ou exclua-o, e então comece a escrever!</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://vinny1511.github.io/nutrivalaraujo/2024/11/24/ola-mundo/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
